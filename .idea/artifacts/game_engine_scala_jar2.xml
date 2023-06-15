@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="game-engine-scala:jar2">
+    <output-path>$USER_HOME$/Contacts</output-path>
+    <root id="archive" name="game-engine-scala.jar">
+      <element id="module-output" name="game-engine-scala" />
+      <element id="module-output" name="game-engine-scala-build" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
